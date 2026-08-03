@@ -21,7 +21,6 @@ export default function Hero() {
         <h1>
           <span className="anim-up" style={{ animationDelay: '0.14s' }}>Fullstack</span>
           <span className="outline anim-up" style={{ animationDelay: '0.24s' }}>engineer</span>
-          <span className="anim-up" style={{ animationDelay: '0.34s' }}>from London.</span>
         </h1>
       </div>
 
